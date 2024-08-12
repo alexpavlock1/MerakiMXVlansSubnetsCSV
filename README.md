@@ -4,7 +4,7 @@ This script creates a CSV of every network that has an MX in it with the subnets
 
 Prerequisites: Python version 3 
 
-3 python modules are needed for this script. To download or update the modules run: 
+3 python modules are needed for this script. To download or update the modules on a mac run: 
 pip3 install asyncio &&
 pip3 install meraki.aio &&
 pip3 install csv 
